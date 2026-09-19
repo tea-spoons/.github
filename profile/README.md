@@ -10,13 +10,14 @@ I'm **Muhammad Tarek Abdou** ([@MuhammadTarek0](https://github.com/MuhammadTarek
 
 ## What's here
 
-### CI tooling
+### My own tools (MIT)
 
 | Repo | What it is | License |
 |---|---|---|
 | [unity-ci-kit](https://github.com/tea-spoons/unity-ci-kit) | Composable GitHub Actions for Unity: run tests, build players, handle Unity licensing, publish UPM packages | MIT |
+| [Variable References](https://github.com/tea-spoons/variable-references) | ScriptableObject variables and serializable references that are either a constant or a variable, with editor drawers and UI components | MIT |
 
-### Unity packages
+### Unity packages that started at Bigpoint
 
 One repo per package, each installable with Unity's Package Manager.
 
@@ -24,8 +25,9 @@ One repo per package, each installable with Unity's Package Manager.
 |---|---|---|
 | [Addressables Toolbox](https://github.com/tea-spoons/addressables-toolbox) | A collection of handy additions to the Addressables system. | 0.5.0 |
 | [Attribute Modifier System](https://github.com/tea-spoons/ams) | A hierarchical attribute management system for calculating game stats with support for absolute values, percentage modifiers, weighted averages, and parent-child value propagation. | 0.0.3 |
+| [CodeModule Helper](https://github.com/tea-spoons/code-module-helper) | An editor tool for managing code modules in a consistent, standardized way. | 0.2.2 |
 | [Collections](https://github.com/tea-spoons/collections) | Handy multi-purpose collections. | 0.10.0 |
-| [Editor Toolbox](https://github.com/tea-spoons/editor-toolbox) | A collection of handy editor tools. | 0.3.1 |
+| [Editor Toolbox](https://github.com/tea-spoons/editor-toolbox) | A collection of handy editor tools. | 0.4.0 |
 | [Large Numbers](https://github.com/tea-spoons/large-numbers) | Support for creating numbers with plenty of digits. | 0.7.2 |
 | [Logging](https://github.com/tea-spoons/logging) | Lightweight, modular logging. | 1.3.8 |
 | [Mobile Notifications](https://github.com/tea-spoons/mobile-notifications) | Local notification abstraction layer for iOS and Android. Provides scheduling, cancellation, category management, and deep link support via the TeaSpoons service locator. | 0.4.1 |
@@ -56,8 +58,9 @@ Unity can't resolve git dependencies on its own. Each package README lists the p
 
 ## Licensing
 
-- **unity-ci-kit** is MIT licensed.
-- **The Unity packages** started as work I wrote for Bigpoint and are published here with their permission, under the
+- **unity-ci-kit** and **Variable References** are my own work and MIT licensed. (Variable References follows Ryan
+  Hipple's MIT-licensed Unite 2017 sample; the notice is in that repo.)
+- **The packages that started at Bigpoint** were work I wrote for them and are published here with their permission, under the
   [PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) license. They are available
   for research, education and other noncommercial use; commercial use is not permitted.
   Copyright (c) 2026 Bigpoint.
