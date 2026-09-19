@@ -37,11 +37,11 @@ One repo per package, each installable with Unity's Package Manager.
 | [Service Locator](https://github.com/tea-spoons/service-locator) | Lightweight service binding and location. | 0.5.7 |
 | [Simple Grids](https://github.com/tea-spoons/simple-grids) | Lightweight general-purpose 2D grids in 3D space. | 0.5.2 |
 | [Simple Localization](https://github.com/tea-spoons/simple-localization) | Lightweight localization. | 0.5.0 |
-| [Stacking Dialogs](https://github.com/tea-spoons/stacking-dialogs) | A lightweight, UGUI-based dialog system. | 0.17.0 |
+| [Stacking Dialogs](https://github.com/tea-spoons/stacking-dialogs) | A lightweight, UGUI-based dialog system. | 0.17.1 |
 | [Static Data](https://github.com/tea-spoons/static-data) | Management for gamedesign static data. Prepares and loads files, stores them in a runtime library and allows cross-referencing. | 0.22.2 |
 | [Structured Documents](https://github.com/tea-spoons/structured-documents) | Unified document parsing for fundamentally different file formats. | 0.6.1 |
-| [UGui Design System](https://github.com/tea-spoons/ugui-design-system) | A design system foundation for UGui projects. | 0.14.0 |
-| [UI Toolbox](https://github.com/tea-spoons/ui-toolbox) | A collection of handy things for UGUI. | 0.6.0 |
+| [UGui Design System](https://github.com/tea-spoons/ugui-design-system) | A design system foundation for UGui projects. | 0.15.0 |
+| [UI Toolbox](https://github.com/tea-spoons/ui-toolbox) | A collection of handy things for UGUI. | 0.6.1 |
 | [UniTask Toolbox](https://github.com/tea-spoons/unitask-toolbox) | Useful tools for when using UniTask. | 0.11.0 |
 
 Every package repo has a `CHANGE-PLAN.md` describing what was changed on the way here and what is planned next.
